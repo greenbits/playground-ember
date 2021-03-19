@@ -49,5 +49,8 @@
   },
   "engines": {
     "node": "8.* || >= 10.*"
+  },
+  "dependencies": {
+    "faker": "^5.4.0"
   }
 }
